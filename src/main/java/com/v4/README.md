@@ -1,6 +1,10 @@
-# v2
+# v4 Lamda Expressions
 
 
-![alt text](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/blob/master/img/v2/Functional%20Interface-New%20Features_PART2-1.png?raw=true)
+![alt text](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/blob/master/img/v4/Lamda%20Expression-New%20Features_PART1-1.png)
 
-![alt text](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/blob/master/img/v2/Functional%20Interface-New%20Features_PART2-2.png?raw=true)
+![alt text](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/blob/master/img/v4/Lamda%20Expression-New%20Features_PART3-1.png)
+
+![alt text](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/blob/master/img/v4/Lamda%20Expression-New%20Features_PART3-2.png)
+
+![alt text](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/blob/master/img/v4/Lamda%20Expression-New%20Features_PART3-3.png)
