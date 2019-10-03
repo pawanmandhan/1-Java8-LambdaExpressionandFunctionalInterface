@@ -2,6 +2,8 @@
 
  - Collection extends Iterable<I>.
  - Iterables have a forEach(Consumer<? super T> action) method.
+ - Iterable's forEach() is a default method.
+ - Iterable's forEach() takes Consumer type as an argument.
 
 ````
 
@@ -17,8 +19,8 @@ public interface Iterable<T> {
 
 ````
 
- - BiConsumer is a FunctionalInterface.
- - Consumer<I> have void accept(T t) method.
+ - Consumer is a FunctionalInterface.
+ - Consumer<T> have void accept(T t) method.
 
 ````
 
