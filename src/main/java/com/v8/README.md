@@ -1,4 +1,24 @@
 # v8 Iterate Collection Using ForEach
 
+  -Collection extends Iterable<I>.
+  -Iterables have a forEach(Consumer<? super T> action) method.
 
-![alt text](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/blob/master/img/v7/return_value_from_lamda_expression-1.png)
+````
+public interface Iterable<T> {
+   
+    default void forEach(Consumer<? super T> action) {
+        Objects.requireNonNull(action);
+        for (T t : this) {
+            action.accept(t);
+        }
+    }
+}
+````
+  -Consumer<I> have void accept(T t) method.
+````
+
+public interface Consumer<T> {
+
+    void accept(T t);
+}
+````
