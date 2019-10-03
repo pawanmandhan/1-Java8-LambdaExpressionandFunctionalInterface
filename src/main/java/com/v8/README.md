@@ -21,12 +21,12 @@ public interface Iterable<T> {
 
  - Consumer is a FunctionalInterface.
  - Consumer<T> have void accept(T t) method.
+ - Consumer's accept(T t) method consumes 1 arguments. (performs some action on 1 arguments & returns nothing)
 
 ````
 
 @FunctionalInterface
 public interface Consumer<T> {
-
     void accept(T t);
 }
 
