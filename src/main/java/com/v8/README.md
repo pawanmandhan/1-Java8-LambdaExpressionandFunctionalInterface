@@ -4,6 +4,7 @@
  - Iterables have a forEach(Consumer<? super T> action) method.
 
 ````
+
 public interface Iterable<T> {
    
     default void forEach(Consumer<? super T> action) {
@@ -13,12 +14,18 @@ public interface Iterable<T> {
         }
     }
 }
-````
- - Consumer<I> have void accept(T t) method.
+
 ````
 
+ - BiConsumer is a FunctionalInterface.
+ - Consumer<I> have void accept(T t) method.
+
+````
+
+@FunctionalInterface
 public interface Consumer<T> {
 
     void accept(T t);
 }
+
 ````
