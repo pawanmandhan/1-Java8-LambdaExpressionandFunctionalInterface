@@ -35,7 +35,6 @@ public interface Map<K,V> {
 
 @FunctionalInterface
 public interface BiConsumer<T, U> {
-
     void accept(T t, U u);
 }
 
