@@ -1,6 +1,8 @@
 # v9 Iterate Map Using ForEach
 
  - Map have a forEach(BiConsumer<? super K, ? super V> action) method.
+ - Map's forEach() is a default method.
+ - Map's forEach() takes BiConsumer type as an argument.
 
 ````
 
@@ -27,6 +29,7 @@ public interface Map<K,V> {
  
  - BiConsumer is a FunctionalInterface.
  - BiConsumer<T, U> have void accept(T t, U u) method.
+ - BiConsumer's accept(T t, U u) method consumes 2 arguments. (performs some action on 2 arguments & returns nothing)
  
 ````
 
