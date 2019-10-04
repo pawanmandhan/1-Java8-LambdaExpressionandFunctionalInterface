@@ -15,5 +15,7 @@
  - [v14 MethodReference to instance-Method of Arbitrary Object in Lambda Expression](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v14)
  - [v15 MethodReference to instance-Method of Particular Object in Lambda Expression](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v15)
  - [v16 Closures in Lambda Expression](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v16)
+ - [v17 The this reference in Lambda Expression](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v17)
+ 
  
  
