@@ -1,4 +1,4 @@
-# v15 MethodReference to an instance method of an particular object
+# v15 MethodReference to an instance method of an particular object in Lambda Expression
 
 
 ![alt text](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/blob/master/img/v15/ReferenceToInstanceMethodofParticularObjectinLambdaExpressionDemo-1.png)
