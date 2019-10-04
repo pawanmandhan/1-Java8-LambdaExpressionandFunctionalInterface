@@ -10,5 +10,6 @@
  - [v9 Iterate Map Using ForEach](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v9)
  - [v10 Comparator Impl Using Lambda Expression](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v10)
  - [v11 Type Inference in Lambda Expression](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v11)
+ - [v12 MethodReference to static method in Lambda Expression](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v12)
  
  
