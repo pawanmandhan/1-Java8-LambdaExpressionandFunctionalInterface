@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class ComparatorUsingLambda {
+public class ComparatorUsingLambdaDemo {
 
 	public static void main(String[] args) {
 		List<Employee> empList = new ArrayList<>();
