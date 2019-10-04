@@ -2,4 +2,4 @@
 
 
 
-![alt text](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/blob/master/img/v15/ReferenceToInstanceMethodofParticularObjectinLambdaExpressionDemo-1.png)
+![alt text](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/blob/master/img/v17/this-reference-in-lamda-expressions.png)
