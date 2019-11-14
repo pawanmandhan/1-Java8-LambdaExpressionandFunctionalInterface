@@ -17,6 +17,7 @@
  - [v16 Closures in Lambda Expression](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v16)
  - [v17 The this reference in Lambda Expression](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v17)
  - [v18_19 Handling Unchecked Exceptions in Lambda Expression](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v18_19)
+ - [v20 BiConsumer FunctionalInterface | writing Lambda for BiConsumer FunctionalInterface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v20)
  
  
  
