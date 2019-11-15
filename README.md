@@ -21,6 +21,7 @@
  - [v21 BiFunction Functional Interface | writing lambda for BiFunction Functional Interface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v21)
  - [v22 BiPredicate FunctionalInterface | Writing Lambda for BiPredicate Functional Interface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v22)
 - [v23 Function FunctionalInterface | Writing Lambda for Function FunctionalInterface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v23)
+- [v24 UnaryOperator FunctionalInterface | Writing Lambda for UnaryOperator FunctionalInterface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v24)
  
  
  

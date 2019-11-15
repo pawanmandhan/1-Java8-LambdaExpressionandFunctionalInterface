@@ -2,7 +2,7 @@ package com.v22;
 
 import java.util.function.BiPredicate;
 
-public class BiPredicateFunctionalInterface {
+public class BiPredicateFunctionalInterfaceDemo {
 
 	public static void main(String[] args) {
 		BiPredicate<String, String> biPredicate = (i1, i2) -> i1.equals(i2);

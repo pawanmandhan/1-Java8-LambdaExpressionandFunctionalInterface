@@ -2,7 +2,7 @@ package com.v21;
 
 import java.util.function.BiFunction;
 
-public class BiFunctionFunctionalInterface {
+public class BiFunctionFunctionalInterfaceDemo {
 
 	public static void main(String[] args) {
 		BiFunction<Integer, Integer, String> biFunction = (n1, n2) -> "result : " + (n1 + n2);
