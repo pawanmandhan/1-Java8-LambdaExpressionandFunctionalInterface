@@ -19,7 +19,8 @@
  - [v18_19 Handling Unchecked Exceptions in Lambda Expression](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v18_19)
  - [v20 BiConsumer FunctionalInterface | writing Lambda for BiConsumer FunctionalInterface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v20)
  - [v21 BiFunction Functional Interface | writing lambda for BiFunction Functional Interface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v21)
- - [v22 BiPredicate FunctionalInterface | Writing Lambda for BiPredicate](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v22)
+ - [v22 BiPredicate FunctionalInterface | Writing Lambda for BiPredicate Functional Interface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v22)
+- [v23 Function FunctionalInterface | Writing Lambda for Function FunctionalInterface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v23)
  
  
  
