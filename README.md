@@ -25,7 +25,7 @@
  - [v25 BinaryOperator FunctionalInterface | Writing Lambda for BinaryOperator FunctionalInterface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v25)
  - [v26 Supplier FunctionalInterface | Writing Lambda for Supplier FunctionalInterface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v26)
  - [v27 BooleanSupplier FunctionalInterface | Writing Lambda for BooleanSupplier FunctionalInterface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v27)
- - [v28 Lambda Expressions:Best Practices java 8_PART1](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v28)
+ - [v28_31 Lambda Expressions:Best Practices java 8](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v28_31)
  
  
  
