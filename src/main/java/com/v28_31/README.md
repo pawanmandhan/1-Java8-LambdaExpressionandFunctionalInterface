@@ -22,3 +22,5 @@
   ![alt text](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/blob/master/img/v28/lambda-expressions-best-practices-8.png)
   
   ![alt text](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/blob/master/img/v28/lambda-expressions-best-practices-9.png)
+  
+   ![alt text](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/blob/master/img/v28/lambda-expressions-best-practices-10.png)
