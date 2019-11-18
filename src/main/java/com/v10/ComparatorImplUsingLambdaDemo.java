@@ -28,7 +28,7 @@ public class ComparatorImplUsingLambdaDemo {
 			}
 		});
 */	
-		System.out.println("-------------------Using Lamda Expression-------------------------");
+		System.out.println("-------------------Using Lambda Expression-------------------------");
 		Collections.sort(empList,(e1,e2)->e1.getName().compareTo(e2.getName()));
 		
 		System.out.println("--------------------------------------------");

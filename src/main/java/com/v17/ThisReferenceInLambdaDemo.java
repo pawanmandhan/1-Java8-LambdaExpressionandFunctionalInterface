@@ -6,7 +6,7 @@ public class ThisReferenceInLambdaDemo {
 		doPerate(30, n -> {
 			System.out.println(30 + n);
 			System.out.println(this);
-			//can reference this from lamda from instance method com.v17.ThisReferenceInLambdaDemo@34414
+			//can reference this from lambda from instance method com.v17.ThisReferenceInLambdaDemo@34414
 		});
 	}
 
@@ -25,7 +25,7 @@ public class ThisReferenceInLambdaDemo {
 		ThisReferenceInLambdaDemo.doPerate(b, n -> {
 			System.out.println(b + n);
 			// System.out.println(this); 
-			// can't reference this from Lamda as main is static
+			// can't reference this from Lambda as main is static
 		});
 		
 		new ThisReferenceInLambdaDemo().process();

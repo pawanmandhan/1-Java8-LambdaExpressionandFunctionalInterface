@@ -4,7 +4,7 @@
 
  - [v1 Functional Interface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v1)
  - [v2 Functional Interface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v2)
- - [v4 Lamda Expressions](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v4)
+ - [v4 Lambda Expressions](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v4)
  - [v7 Return Value From Lambda Expression](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v7)
  - [v8 Iterate Collection Using ForEach](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v8)
  - [v9 Iterate Map Using ForEach](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v9)
@@ -20,11 +20,12 @@
  - [v20 BiConsumer FunctionalInterface | writing Lambda for BiConsumer FunctionalInterface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v20)
  - [v21 BiFunction Functional Interface | writing lambda for BiFunction Functional Interface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v21)
  - [v22 BiPredicate FunctionalInterface | Writing Lambda for BiPredicate Functional Interface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v22)
-- [v23 Function FunctionalInterface | Writing Lambda for Function FunctionalInterface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v23)
-- [v24 UnaryOperator FunctionalInterface | Writing Lambda for UnaryOperator FunctionalInterface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v24)
-- [v25 BinaryOperator FunctionalInterface | Writing Lambda for BinaryOperator FunctionalInterface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v25)
+ - [v23 Function FunctionalInterface | Writing Lambda for Function FunctionalInterface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v23)
+ - [v24 UnaryOperator FunctionalInterface | Writing Lambda for UnaryOperator FunctionalInterface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v24)
+ - [v25 BinaryOperator FunctionalInterface | Writing Lambda for BinaryOperator FunctionalInterface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v25)
  - [v26 Supplier FunctionalInterface | Writing Lambda for Supplier FunctionalInterface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v26)
-- [v27 BooleanSupplier FunctionalInterface | Writing Lambda for BooleanSupplier FunctionalInterface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v27)
+ - [v27 BooleanSupplier FunctionalInterface | Writing Lambda for BooleanSupplier FunctionalInterface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v27)
+ - [v28 Lambda Expressions:Best Practices java 8_PART1](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v28)
  
  
  

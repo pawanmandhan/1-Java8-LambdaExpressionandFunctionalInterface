@@ -1,6 +1,6 @@
 package com.v4;
 
-public class LamdaExpressionDemo {
+public class LambdaExpressionDemo {
 
 	public static void main(String[] args) {
 

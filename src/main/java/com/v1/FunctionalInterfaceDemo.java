@@ -9,7 +9,7 @@ public class FunctionalInterfaceDemo {
 	public static void main(String[] args) {
 
 		// createThreadUsingAnonymousClass();
-		// createThreadUsingLamdaExpression();
+		// createThreadUsingLambdaExpression();
 
 		List<String> nameList = new ArrayList<>();
 		nameList.add("Andrew");
@@ -21,7 +21,7 @@ public class FunctionalInterfaceDemo {
 
 	}
 
-	private static void createThreadUsingLamdaExpression() {
+	private static void createThreadUsingLambdaExpression() {
 		Runnable r = () -> {
 			System.out.println("My task is executing..");
 		};
