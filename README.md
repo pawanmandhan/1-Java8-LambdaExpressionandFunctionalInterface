@@ -23,6 +23,8 @@
 - [v23 Function FunctionalInterface | Writing Lambda for Function FunctionalInterface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v23)
 - [v24 UnaryOperator FunctionalInterface | Writing Lambda for UnaryOperator FunctionalInterface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v24)
 - [v25 BinaryOperator FunctionalInterface | Writing Lambda for BinaryOperator FunctionalInterface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v25)
+ - [v26 Supplier FunctionalInterface | Writing Lambda for Supplier FunctionalInterface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v26)
+ 
  
  
  
