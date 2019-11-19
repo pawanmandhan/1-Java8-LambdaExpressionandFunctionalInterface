@@ -26,6 +26,11 @@
  - [v26 Supplier FunctionalInterface | Writing Lambda for Supplier FunctionalInterface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v26)
  - [v27 BooleanSupplier FunctionalInterface | Writing Lambda for BooleanSupplier FunctionalInterface](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v27)
  - [v28_31 Lambda Expressions:Best Practices java 8](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v28_31)
+ - [v32 BiConsumer andThen example](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v32)
+ - [v33 BiFunction andThen example](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v33)
+ - [v34 BinaryOperator minBy and maxBy example](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v34)
+ - [v36 BiPredicate and,or and negate example](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v36)
+ - [v37 Function-compose,andThen and identity example](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/tree/master/src/main/java/com/v37)
  
  
  
