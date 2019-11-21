@@ -33,7 +33,7 @@ default BiConsumer<T, U> andThen(BiConsumer<? super T, ? super U> after) {
 
 
 
-
+- Example
 ````
 
 BiConsumer<Integer, Integer> adder = (i1, i2) -> System.out.println("Adder : " + (i1 + i2));
