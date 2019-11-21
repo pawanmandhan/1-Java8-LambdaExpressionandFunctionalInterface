@@ -15,7 +15,7 @@ public interface BiPredicate<T, U, R> {
 ````
 
 
- - and() is a default method in BiPredicate FunctionalInterface
+ - **and()** is a default method in BiPredicate FunctionalInterface
  - Returns a composed predicate that represents a short-circuiting logical AND of this predicate(first BiPredicate) and another(second BiPredicate). 
  - When evaluating the composed predicate, if this(first BiPredicate) predicate is  false, then the other (second BiPredicate) predicate is not evaluated.
  - Any exceptions thrown during evaluation of either predicate are relayed to the caller; if evaluation of this(first predicate) predicate throws an exception, the other(second predicate) predicate will not be evaluated.
@@ -28,7 +28,7 @@ default BiPredicate<T, U> and(BiPredicate<? super T, ? super U> other) {
 }
 ````
 
- - negate() is a default method in BiPredicate FunctionalInterface
+ - **negate()** is a default method in BiPredicate FunctionalInterface
  - Returns a predicate that represents the logical negation of this predicate.
 ````
 
@@ -37,7 +37,7 @@ default BiPredicate<T, U> negate() {
 }
 ````
 
- - or() is a default method in BiPredicate FunctionalInterface
+ - **or()** is a default method in BiPredicate FunctionalInterface
  - Returns a composed predicate that represents a short-circuiting logical OR of this(first BiPredicate) predicate and another(second BiPredicate). 
  - When evaluating the composed predicate, if this(first BiPredicate) predicate is  true, then the other(second BiPredicate) predicate is not evaluated.
  - Any exceptions thrown during evaluation of either predicate are relayed to the caller; if evaluation of this(first predicate) predicate throws an exception, the other(second predicate) predicate will not be evaluated.
